@@ -1,0 +1,4606 @@
+
+/*========================================== Media Quaries ============================================*/
+
+
+@media (max-width:767px){
+  
+  /*     <!--  ***********************Top-Header*************************** *--> */
+
+
+  
+
+/* Navbar */
+.nav{
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  padding: 0px 20px;
+
+}
+.freebuton{
+  background: #2AA7FF;
+  margin-left: 0px;
+  border: none;
+  padding: 20px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+text-align: center;
+
+}
+/* End */
+/* ****************************************  Header-image**************************** */
+.left-one h1{
+  top: 50px;
+  left:20px ;
+  font-size: 30px;
+  width: 93%;
+  line-height: 50.4px;
+  
+}
+.left-one p{
+  top: 200px;
+  left:20px ;
+  line-height: 20px;
+  
+}
+.left-one button{
+  top: 270px;
+  left:20px ;
+  
+}
+.numberpase{
+  display: flex;
+  position: absolute;
+  top: 400px;
+  left:20px ;
+  font-weight: 400;
+  color: #1B3C74;
+  font-size: 28px;
+  line-height: 25px;
+
+}
+.kuoga{
+  margin-right: 0px;
+}
+.kuoga h6{
+  font-size: 14px;
+  color: #77829D;
+  margin-top: 0px;
+  
+}
+.buttom-header{
+
+  padding-left: 20px;
+  }
+  .imasss .po-po{
+    width: 100%;
+    height: 600px;
+  }
+.header-image{
+  width: 100%;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  
+}
+
+.left-one h5{
+  top: 100px;
+  left:20px ;
+  letter-spacing: 0px;
+  
+}
+
+
+
+
+
+@keyframes learning{
+  0%{
+    
+    left:-800px ;
+  }
+  50%{
+   
+    left: -800px;
+  }
+ 
+  100%{
+    left: 20px;
+  }
+}
+
+.right-one img{
+ display: none;
+}
+.floors-parent{
+  display: block;
+  width: 100%;
+}
+.floors{
+  width: 300px;
+  margin: auto;
+
+}
+
+
+/* **********************Section-one**********************  */
+.parent-onert{
+  width: 100%;
+  margin-top: 44px;
+}
+.cardio{
+  display: block;
+  max-width: 1100px;
+  margin-top: 64px;
+  
+}
+.sethj{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.shap1 img{
+display: none;
+}
+.seduhag{
+  width: 90%;
+  margin: auto;
+  height: 283px;
+  cursor: pointer;
+  background: white;
+  transition: 0.3s;
+  
+}
+.shap5{
+display: none;
+}
+.shap2{
+  display: none;
+}
+/*  *******************Section-Two*******************  */
+
+.work-img-parent{
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  justify-content: space-around;
+  margin-top: 44px;
+ 
+ }
+ .left-two{
+  display: none;
+ }
+ .hand{
+display: none;
+}
+.shape4{
+display: none;
+}
+ .right-two{
+  width: 100%;
+background: white;
+   height: 451px;
+
+ margin-left: 0px;
+ padding: 20px;
+
+ }
+ .right-two h2{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: #2AA7FF;
+   
+ }
+ .right-two h3{
+font-family: DM Serif Display;
+font-size: 2rem;
+font-weight: 400;
+line-height: 47.2px;
+text-align: left;
+color: #1B3C74;
+margin-bottom: 20px;
+ }
+ .right-two p{
+  font-family: Gilroy;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 22px;
+  text-align: left;
+  color: #7583A7;
+  
+ }
+ .right-two button{
+   border: none;
+   padding: 19px 35px ;
+   margin-left: 0px;
+   margin-top: 40px;
+   font-size: 1rem;
+
+ }
+ .right-two button:hover{
+   background: black;
+   color: white;
+ }
+
+  /* ********************** Section-Three********************** */
+  .image-str{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 1170px;
+    margin: auto;
+    margin-top: 4px;
+  }
+.clokk{
+  padding: 30px 0px;
+}
+/* ********************* Section-Four********************** */
+  .secon-four{
+    position: relative;
+    margin-top: 44px;
+   
+  }
+  .doct{
+    position: relative;
+  display: none;
+  }
+  .shap7{
+     display: none;
+  }
+  .madel{
+    display: none;
+   
+  }
+  .updo{
+    display: none;
+   
+  }
+  /* Right */
+  .right-side{
+    position: absolute;
+    top: 100px;
+    right: 180px;
+   
+  }
+  
+  .right-side h2{
+
+    font-family: DM Serif Display;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 27.2px;
+    text-align: center;
+    margin-left: 200px;
+    }
+  .right-side p{
+display: none;
+  }
+  .right-side button{
+    text-align: center;
+    width: 100%;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 19px 30px ;
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+
+  .smaill{
+   display: none;
+  }
+.shp6{
+  display: none;
+}
+.right-side{
+  position: absolute;
+  top: 400px;
+  right: 130px;
+
+   
+}
+.smaill{
+  position: absolute;
+  top: 120px;
+  right: 30px;
+ 
+}
+.dag{
+display: none;
+
+}
+.white{
+  width: 100%;
+  background: white;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0px 5px 5px 5px  rgb(236, 234, 234);
+   
+}
+.white .shap8{
+display: none;
+ 
+}
+.form-one{
+  width: 100%;
+  position: absolute;
+  bottom: -100px;
+  left: 0px;
+
+}
+.fore-fu{
+  display: block;
+  justify-content: space-between;
+  
+}
+
+#cars{
+  width: 100%;
+  height: 64px;
+  background: #F2F6F9;
+  border: none;
+  border-radius: 5px;
+ margin-bottom: 20px;
+}
+.kouss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* Phone */
+
+.phon ::placeholder{
+  padding-left: 15px;
+  
+}
+#phone{
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+ 
+}
+.foll{
+  position: relative;
+}
+.men{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+  
+}
+.fa-light{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.phon-emal{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.threek{
+  display: block;
+
+}
+.thrrek-oee{
+  position: relative;
+}
+.gori{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+#gorijii{
+  display: block;
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+}
+.goripadd ::placeholder{
+  padding-left: 15px;
+
+}
+
+.Appointment{
+  width: 100%;
+border: none;
+
+}
+.thrrek-oee .Appointment:hover{
+  background: #3a72d1;
+}
+.shap9 img{
+margin-top: 300px;
+margin-left: 50px;
+
+}
+.shap10 img{
+  display: none;
+  
+}
+
+/* ********************** Section-Five**********************ANimation */
+.secon-five{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: 20px;
+  margin-top:800px;
+
+}
+.setupp{
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+
+  
+}
+.imgee{
+  position: relative;
+}
+.grtt{
+  position: absolute;
+  top: 50px;
+  left: 10px;
+  
+}
+.menn{
+  position: absolute;
+  top: -40px;
+  right: 0px;
+
+}
+.imgee img{
+  max-width: 100%;
+ 
+}
+.grtt h4{
+  font-family: DM Serif Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 33.6px;
+  text-align: left;
+  color: #1B3C74;
+  
+}
+.grtt h5{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: left;
+color: #2AA7FF;  
+text-decoration: underline;
+padding-top: 15px;
+cursor: pointer;
+}
+.whyd h6{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: left;
+color: #2AA7FF;
+}
+.whyd h2{
+  font-family: DM Serif Display;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 67.2px;
+  text-align: left;
+  color: #1B3C74;
+  margin-bottom: 90px;
+}
+
+.dec1{
+  display: block;
+  
+
+}
+.huff{
+  padding-right: 80px;
+  
+
+}
+.padidown{
+  padding-bottom: 0px;
+  margin-top: 30px;
+
+}
+.dedic h4{
+  font-family: DM Serif Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 33.6px;
+  text-align: left;
+  color: #1B3C74;
+}
+.dedic p{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+color: #77829D;
+}
+.shap11{
+  display: none;
+
+}
+.shap12{
+  display: none;
+  margin-top: 130px;
+  
+}
+
+
+/* ********************** Section-Six**********************ANimation */
+.parent-sixx{
+  position: relative;
+  margin-top: 44px;
+  padding-bottom: 400px;
+}
+.bgebac{
+  position: absolute;
+  display: block;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  top: 0px;
+  left: 0px;
+  padding: 10px;
+
+}
+.parent-sixx img{
+  max-width: 100%;
+  
+}
+.dibni{
+  width: 100%;
+  
+}
+
+.paseana{
+  display: block;
+}
+
+
+/* right */
+/* right */
+.right-sidd img{
+  margin-left: 0px;
+  padding: 30px;
+  cursor:zoom-in;
+}
+
+/* end */
+
+/* ********************** Section-Seven**********************ANimation */
+.Parent-Sevnfather{
+  max-width: 100%;
+  margin-top: 44px;
+  text-align: center;
+  margin-top: 0px;
+  border: 1px solid red;
+}
+.parent-seven{
+  display: block;
+  
+}
+.sevd{
+  display: block;
+  justify-content: space-around;
+
+}
+.aung{
+ display: none;
+}
+.Team h6{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+color: #2AA7FF;
+
+}
+.Team h3{
+  font-family: DM Serif Display;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 67.2px;
+  text-align: center;
+  color: #1B3C74;
+  margin-bottom: 0px;
+
+  margin-top: 600px;
+}
+.treeimg{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+ 
+}
+
+  /* ********************** Section-Eight**********************ANimation */
+.parent-eightt{
+  position: relative;
+  margin-top: 44px;
+}
+.parent-eightt .bg5k{
+  max-width: 100%;
+  height: 876px;
+
+}
+.Vitor-pa{
+  position: absolute;
+  top: 50px;
+  left: 0px;
+ 
+}
+.ABree{
+  display: block;
+  justify-content: center;
+ 
+}
+/* Left */
+
+.womn3{
+  position: relative;
+  margin-right: 0px;
+  
+}
+.womn3 .olgh{
+  max-width: 70%;
+  margin: auto;
+}
+.imggg{
+  position: absolute;
+  top: 150px;
+  left: 0px;
+ 
+
+}
+.ghhimg{
+  display: none;
+  position: absolute;
+  top: 350px;
+  right: 0px;
+  
+}
+/* Right */
+.plask h5{
+  width: 100%;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+color: #2AA7FF;
+
+}
+.plask h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+
+}
+accordion-item {
+  display: block;
+  max-width: 100%;
+
+}
+
+
+
+ /* ********************** Section-Nine**********************ANimation */ 
+
+ .Parent-Nine{
+  max-width: 100%;
+  margin-top: 44px;
+}
+.Parent-Nine .bg6d{
+  max-width: 100%;
+  
+}
+
+
+.bg5s{
+  position: relative;
+  margin-top: 54px;
+  
+}
+.three-div{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+}
+.Fords{
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+}
+.smaiset{
+  width: 100%;
+  height: 502px;
+  cursor: pointer;
+  background: #FFFFFF;
+  transition: 0.4s;
+   border: 1px solid #E0E6EB;
+   
+}
+.smaiset:hover{
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+}
+.smaiset p{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #77829D;  
+  padding: 15px 0px 15px 15px;
+}
+.smaiset h5{
+  font-family: DM Serif Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 33.6px;
+  text-align: left;
+  color: #1B3C74;
+  padding: 15px 0px 15px 15px;
+}
+.smaiset h6 a{
+  text-decoration: none;
+  transition: 0.4s;
+}
+.smaiset h6 a:hover{
+  text-decoration: underline;
+}
+.smaiset h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  padding: 15px 0px 15px 15px;
+}
+
+ /* ********************** Section-Ten**********************ANimation */ 
+
+ .fater-ten{
+  position: relative;
+  margin-top: 1400px;
+  
+}
+.fater-ten .bg8f{
+  max-width: 100%;
+}
+.parent-ten{
+  max-width: 100%;
+  position: absolute;
+  top: 200px;
+  left: 0px; 
+  padding: 0px 5px;
+}
+.Newsletter{
+  display: block;
+  width: 100%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+}
+
+.More h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  color: #2AA7FF;  
+
+}
+.More h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+}
+/*  */
+.thrrek-okrr{
+  position: relative;
+ 
+}
+
+.Subscribe button{
+  border: none;
+  background: #2AA7FF;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+.goridf{
+  position: absolute;
+  top: 55px;
+  left: 20px;
+  color: #77829D; 
+}
+
+#gorijiihgj{
+  padding-left: 35px;
+  width: 100%;
+    
+}
+.goripaddbn ::placeholder{
+  padding-left: 15px;
+
+}
+
+/* shadoe nice */
+.footer-nice{
+  display: block;
+  justify-content: space-between;
+  margin-top: 50px;
+  
+}
+.Medinik h3{
+  font-family: DM Serif Display;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50.4px;
+  text-align: left;
+  color: #1B3C74;
+  margin-bottom: 20px;
+}
+.Medinik p{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #77829D;  
+  margin-bottom: 50px;
+}
+
+
+.icones .kokoma{
+  padding: 15px 0px;
+  cursor: pointer;
+  margin-right:10px;
+  line-height: 10px;
+  transition: 0.4s;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 10px;
+  border-radius: 100%;
+ color: #77829D;
+ background: white;
+ transition: 0.4s;
+ box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+}
+.icones .kokoma:hover{
+  color: white;
+  background: #2AA7FF;
+}
+.paseanacs{
+  display: flex;
+}
+.Quick h3{
+font-family: DM Serif Display;
+font-size: 24px;
+font-weight: 400;
+line-height: 33.6px;
+text-align: left;
+color: #1B3C74;
+margin-bottom: 20px;
+}
+.Quick h4{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #77829D;  
+  margin-bottom: 20px;
+  cursor: pointer;
+  }
+  .Abrj{
+    margin-right: 50px;
+  }
+  .jibon{
+    margin-top: 55px;
+  }
+  .gape{
+    margin-left: 10px;
+  }
+.partgg{
+  display: flex;
+}
+  .Opening h3{
+font-family: DM Serif Display;
+font-size: 24px;
+font-weight: 400;
+line-height: 33.6px;
+text-align: left;
+color: #1B3C74;
+margin-bottom: 20px;
+  }
+.Opening h4{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: left;
+color: #2AA7FF;
+padding-bottom: 20px;
+}
+.amam{
+  margin-top: 55px;
+}
+.amam h5{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 500;
+line-height: 27px;
+text-align: right;
+color: #77829D;
+padding-bottom: 20px;
+}
+.hori{
+  border: 1px solid #E0E6EB;
+  margin: 10px 0px;
+}
+.copy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stop{
+  font-family: Gilroy;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: right;
+color: #77829D;
+}
+
+/*  */
+
+
+}
+
+          @media (min-width:768px){  
+
+/* Navbar */
+.nav{
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  padding: 0px 20px;
+
+}
+.freebuton{
+  background: #2AA7FF;
+  margin-left: 0px;
+  border: none;
+  padding: 20px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+text-align: center;
+
+}
+/* End */
+
+/********************* Header-image************************* */
+
+.left-one h1{
+  top: 50px;
+  left:40px ;
+  font-size: 40px;
+  line-height: 60.4px;
+}
+
+.left-one p{
+  top: 200px;
+  left:40px ;
+  line-height: 20px;
+}
+.left-one button{
+  top: 250px;
+  left:40px ;
+}
+.numberpase{
+  display: flex;
+  flex-wrap: nowrap;
+  top: 410px;
+  left:40px ;
+  font-size: 38px;
+}
+
+/* - ***********************Section-one********************** --> */
+.parent-onert{
+  width: 100%;
+  margin-top: 80px;
+}
+.sethj{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.shap1 img{
+  display: none;
+
+ 
+}
+.cardio{
+  display: flex;
+  max-width: 100%;
+  margin-top: 64px;
+ 
+}
+
+.seduhag h3{
+font-size: 20px;
+ }
+
+
+.shap5{
+  display: none;
+ 
+  
+}
+.shap2{
+  display: none;
+}
+
+/*  *******************Section-Two******************* */
+
+
+.work-img-parent{
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  justify-content: space-around;
+  margin-top: 44px;
+  
+ }
+ .left-two{
+   background-image: url(img/E-image/Left\ Side.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   max-width: 539px;
+   max-height: 570px;
+   margin-left: 0px;
+ }
+ .right-two{
+  background: white;
+     height: 591px;
+  padding: 50px;
+   margin-left: 0px;
+   
+   }
+
+.shape4{
+display: none;
+ 
+}
+.hand{
+display: none;
+  
+}
+
+
+/*********************** Section-Three**********************ANimation */
+.image-str{
+  margin-top: 0px;
+  padding: 0px 30px;
+
+}
+
+
+
+
+
+/* ********************** Section-Four**********************ANimation */
+.secon-four{
+  position: relative;
+  margin-top: 44px;
+
+}
+.imgeo{
+display: none;
+ 
+}
+.shap7{
+  display: none;
+
+}
+.doct{
+  position: relative;
+  
+}
+.madel{
+  position: absolute;
+  top: -80px;
+  left: -180px;
+}
+.updo{
+  position: absolute;
+  bottom: -150px;
+  right: -120px;
+  
+}
+.kok{
+  position: relative;
+  
+}
+.kok.shp6{
+margin-top: 100px;
+max-width: 129px;
+max-height: 128px;
+
+}
+.mok{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  
+}
+.bg2{
+  max-width: 100%;
+
+}
+.make h6{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+color: #2AA7FF;
+
+}
+.make h3{
+  font-family: DM Serif Display;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 67.2px;
+  text-align: center;
+  color: #1B3C74;
+  margin-bottom: 56px;
+}
+.make{
+  text-align: center;
+}
+/* Right */
+
+.right-side{
+  position: absolute;
+  top: 30px;
+  right: 180px;
+
+}
+
+
+
+
+
+.ponee{
+  background: #50b6ff;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-right: 0px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  
+}
+.smaill{
+display: none;
+  
+}
+.dag{
+display: none;
+
+}
+
+/* Form */
+.white{
+  width: 100%;
+  
+}
+.white .shap8{
+display: none;
+  
+}
+.form-one{
+  position: absolute;
+  top: 450px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+.form-one{
+  position: absolute;
+  top: 450px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.fore-fu{
+  display: block;
+  justify-content: space-between;
+  
+}
+
+#cars{
+  width: 100%;
+  height: 64px;
+  background: #F2F6F9;
+  border: none;
+  border-radius: 5px;
+  margin: 20px 0px;
+
+}
+
+/* Phone */
+
+.phon ::placeholder{
+  padding-left: 15px;
+  
+}
+#phone{
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+}
+.foll{
+  position: relative;
+}
+.men{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+.fa-light{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.phon-emal{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.threek{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.thrrek-oee{
+  position: relative;
+}
+.gori{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+#gorijii{
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+
+
+}
+.goripadd ::placeholder{
+  padding-left: 15px;
+
+}
+
+.Appointment{
+  width: 100%;
+  height: 64px;
+  cursor: pointer;
+  background: #1B3C74;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+color: white;
+transition: 0.3s;
+border-radius: 10px;
+border: none;
+
+}
+.thrrek-oee .Appointment:hover{
+  background: #3a72d1;
+}
+.shap9 img{
+margin-top: 300px;
+margin-left: 50px;
+
+}
+.shap10 img{
+  display: none;
+
+}
+
+
+/* ********************** Section-Five**********************ANimation */
+.secon-five{
+  display: block;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: 50px;
+  margin-top: 544px;
+
+}
+.setupp{
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+  margin-top: 100px;
+ 
+}
+.imgee{
+  position: relative;
+}
+.grtt{
+  position: absolute;
+  top: 50px;
+  left: 30px;
+
+}
+.menn{
+  position: absolute;
+  top: -40px;
+  right: 200px;
+  
+}
+
+.shap12{
+  display: none;
+}
+
+
+
+/* ********************** Section-Six**********************ANimation */
+.parent-sixx{
+  position: relative;
+  margin-top: 44px;
+ 
+}
+.bgebac{
+  position: absolute;
+  display: block;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  top: 60px;
+  left: 0px;
+  padding: 50px;
+  
+}
+
+.dibni{
+  width: 570px;
+  background: #FFFFFF;
+  padding: 30px;
+  margin-bottom: 30px;
+  cursor: pointer;
+
+}
+
+.paseana{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+/* right */
+iframe{
+  width: 530px;
+  height: 567px;
+  
+}
+.arros{
+  display: flex;
+  
+}
+
+
+
+/* ********************** Section-Seven**********************ANimation */
+
+
+.sevd{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.kufs{
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 64px;
+ 
+  padding: 10px;
+}
+.loved{
+display: none;
+
+}
+.aun{
+display: none;
+}
+.parent-sevenc h5{ 
+  margin-top: 1200px;
+
+}
+
+.treeimg{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  
+}
+
+.lover{
+display: none;
+}
+
+
+/* ********************** Section-Eight**********************ANimation */
+.parent-eightt{
+  position: relative;
+  margin-top: 44px;
+  
+}
+.parent-eightt .bg5k{
+  max-width: 100%;
+  height: 1200px;
+
+}
+.Vitor-pa{
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  padding: 50px;
+  
+}
+.ABree{
+  display: block;
+  justify-content: center;
+  
+}
+/* Left */
+
+.womn3{
+  position: relative;
+  margin-right: 200px;
+
+}
+.womn3 .olgh{
+  max-width: 100%;
+  
+}
+.imggg{
+display: none;
+
+}
+.ghhimg{
+  position: absolute;
+  top: 0px;
+  right: -150px;
+ 
+}
+
+
+
+ /* ********************** Section-Nine**********************ANimation */ 
+
+ .Parent-Nine{
+  max-width: 100%;
+  margin-top: 144px;
+  
+}
+.Parent-Nine .bg6d{
+  max-width: 100%;
+  display: none;
+  
+}
+.Parent-Nine h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  color: #2AA7FF;  
+}
+.Parent-Nine h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+}
+.bg5s{
+  position: relative;
+  margin-top: 54px;
+}
+.three-div{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+ 
+}
+.Fords{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+ 
+}
+
+
+
+ /* ********************** Section-Ten**********************ANimation */ 
+
+ .fater-ten{
+  position: relative;
+  margin-top: 1150px;
+
+}
+.fater-ten .bg8f{
+  max-width: 100%;
+ 
+}
+.parent-ten{
+  max-width: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0px; 
+  padding: 100px;
+}
+.Newsletter{
+  display: block;
+  width: 100%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+  
+}
+
+.More h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: #2AA7FF;  
+}
+.More h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: left;
+color: #1B3C74;
+}
+
+.thrrek-okrr{
+  position: relative;
+ 
+}
+.Subscribe{
+  position: absolute;
+  top: 40px;
+  right: 10px;
+}
+.Subscribe button{
+  border: none;
+  background: #2AA7FF;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+.goridf{
+  position: absolute;
+  top: 55px;
+  left: 20px;
+  color: #77829D; 
+}
+
+#gorijiihgj{
+  padding-left: 35px;
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+    padding-right: 10px;
+   
+}
+.goripaddbn ::placeholder{
+  padding-left: 15px;
+
+}
+
+/* shadoe nice */
+.footer-nice{
+  display: block;
+  justify-content: space-between;
+  margin-top: 50px;
+ 
+}
+
+
+
+
+/*  */
+
+
+
+/*********************** Buttom -Header************** */
+
+
+
+.buttom-header{
+  padding-left: 40px;
+  }
+  .imasss .po-po{
+    width: 100%;
+    height: 600px;
+  }
+.header-image{
+  width: 100%;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  
+}
+
+.left-one h5{
+  top: 100px;
+  left:40px ;
+  letter-spacing: 0px;
+}
+
+
+
+@keyframes learning{
+  0%{
+    
+    left:-800px ;
+  }
+  50%{
+   
+    left: -800px;
+  }
+ 
+  100%{
+    left: 40px;
+  }
+}
+
+.right-one img{
+ display: none;
+}
+.floors-parent{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+.floors{
+  width: 250px;
+  margin: auto;
+}
+.floors p{
+  width: 230px;
+}
+
+
+
+
+.work-img-parent{
+  display: block;
+  margin-top: 150px;
+ }
+ .left-two{
+   width: 100%;
+   height: 340px;
+ }
+ .right-two{
+   width: 100%;
+   height: 591px;
+ 
+ }
+ .right-two h2{
+   margin-left: 40px;
+   margin-top: 10px;
+ }
+ .right-two h3{
+   margin-left: 40px;
+   margin-top: 20px;
+ }
+ .right-two p{
+   margin-left: 40px;
+   margin-top: 20px;
+ }
+ .right-two button{
+   margin-left: 40px;
+   margin-top: 40px;
+ }
+ .recent h2{
+  margin-top: 0px;
+
+}
+.gallery .image{
+  width: calc(100% / 2);
+  padding: 0px;
+ 
+}
+.recent h2{
+  margin-top: 0px;
+}
+/* pppppppppppppppppppppppppppppppppppppppppppppppp */
+.parent-img{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+justify-content: space-evenly;
+gap: 100px;
+align-items: center;
+
+}
+
+
+
+/* ppppppppppppppppppppppppppppppppppppppppppppppp */
+
+
+
+.container p{
+  margin-top: 5px;
+
+}
+.counter{
+  display: block;
+}
+
+
+.latest p{
+  width: 80%;
+
+}
+
+.parent-how{
+  display: block;
+  width: 90%;
+  margin: auto;
+  
+}
+.child-how{
+  display: block;
+  width: 100%;
+}
+.img-gol button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+}
+
+
+@media (min-width:992px){
+
+  /* Navbar */
+.nav{
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  padding: 0px 20px;
+  
+
+}
+.freebuton{
+  background: #2AA7FF;
+  margin-left: 0px;
+  border: none;
+  padding: 20px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.4s;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+text-align: center;
+
+}
+/* End */
+
+/********************* Header-image************************* */
+/*  */
+.left-one h5{
+  position: absolute;
+  top: 100px;
+  left:40px ;
+  font-family: "poppins",sans-serif;
+  font-size: 14px;
+  letter-spacing: 7px;
+  animation-name:learning;
+  animation-duration: 1.3s;
+  animation-iteration-count: 1;
+}
+.left-one h1{
+  position: absolute;
+  top: 80px;
+  left:40px ;
+  font-family: "poppins",sans-serif;
+  font-size: 60px;
+  line-height: 60.4px;
+  font-weight: bold;
+  margin-top: 5px;
+  letter-spacing: 0px;
+  animation-name:learning;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+}
+.left-one p{
+  position: absolute;
+  top: 220px;
+  left:40px ;
+
+}
+
+.left-one button{
+  position: absolute;
+  top: 280px;
+  left:40px ;
+  border: none;
+  padding: 20PX 45PX;
+  cursor: pointer;
+  margin-top: 30PX;
+  transition: 0.3s;
+  animation-name:learning;
+  animation-duration: 2.9s;
+  animation-iteration-count: 1;
+  
+}
+
+.numberpase{
+  display: flex;
+  flex-wrap: nowrap;
+  top: 410px;
+  left:40px ;
+  font-size: 38px;
+}
+/*  */
+
+.abr-img1{
+  position: absolute;
+  top: 350px;
+  left: 40px;
+
+}
+
+.abr-img2 {
+  position: absolute;
+  top: 100px;
+  left: -100px;
+  
+}
+
+/* - ***********************Section-one********************** --> */
+
+.fuska{
+  display: none;
+  
+}
+.fuska-2{
+  display: block;
+ 
+}
+.stay-one{
+  margin-top: 80px;
+  
+}
+
+
+.floors-parent{
+  display:flex;
+  max-width:  100%;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 70px;
+  position: relative;
+  background: rgb(255, 255, 255);
+ 
+
+}
+
+
+/*  */
+.kaa{
+  width: 278px;
+  position: relative;
+ 
+}
+.dote{
+  display: block;
+  margin-top: 250px;
+  margin-right: 280px;
+ 
+}
+.djoke{
+  display: block;
+ 
+}
+
+
+
+/*  *******************Section-Two******************* */
+
+
+.work-img-parent{
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  justify-content: space-around;
+  margin-top: 44px;
+ 
+  
+ }
+ .left-two{
+   background-image: url(img/E-image/Left\ Side.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   max-width: 400px;
+   max-height: 570px;
+   margin-left: 20px;
+ }
+
+.shape4{
+display: none;
+ 
+}
+.hand{
+display: none;
+  
+}
+
+ .right-two h3{
+font-family: DM Serif Display;
+font-size: 28px;
+font-weight: 400;
+line-height: 47.2px;
+text-align: left;
+color: #1B3C74;
+ }
+ .right-two p{
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #7583A7;
+  
+ }
+ .right-two button{
+   border: none;
+   padding: 19px 35px ;
+   margin-left: 40px;
+   margin-top: 40px;
+
+ }
+
+/*********************** Section-Three**********************ANimation */
+.image-str{
+  margin-top: 0px;
+  padding: 0px 30px;
+
+}
+
+
+
+
+
+/* ********************** Section-Four**********************ANimation */
+.secon-four{
+  position: relative;
+  margin-top: 44px;
+ 
+}
+.imgeo{
+display: none;
+ 
+}
+.shap7{
+  display: none;
+
+}
+.doct{
+  position: relative;
+  
+}
+.madel{
+  position: absolute;
+  top: -80px;
+  left: -180px;
+  
+}
+.updo{
+  position: absolute;
+  bottom: -150px;
+  right: -120px;
+ 
+}
+.kok{
+  position: relative;
+  
+}
+.kok.shp6{
+margin-top: 100px;
+max-width: 129px;
+max-height: 128px;
+
+}
+.mok{
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  
+}
+.bg2{
+  max-width: 100%;
+
+}
+.make h6{
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+color: #2AA7FF;
+
+}
+.make h3{
+  font-family: DM Serif Display;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 67.2px;
+  text-align: center;
+  color: #1B3C74;
+  margin-bottom: 56px;
+}
+.make{
+  text-align: center;
+}
+/* Right */
+
+.right-side{
+  position: absolute;
+  top: 30px;
+  right: 280px;
+  
+}
+
+
+
+
+
+.ponee{
+  background: #50b6ff;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-right: 0px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  
+}
+.smaill{
+display: none;
+  
+}
+.dag{
+display: none;
+
+}
+
+/* Form */
+.white{
+  width: 100%;
+  
+}
+.white .shap8{
+display: none;
+  
+}
+.form-one{
+  position: absolute;
+  top: 450px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+.form-one{
+  position: absolute;
+  top: 450px;
+  left: 0px;
+  bottom: 0px;
+}
+.fore-fu{
+  display: block;
+  justify-content: space-between;
+  
+}
+
+#cars{
+  width: 100%;
+  height: 64px;
+  background: #F2F6F9;
+  border: none;
+  border-radius: 5px;
+  margin: 20px 0px;
+
+}
+
+/* Phone */
+
+.phon ::placeholder{
+  padding-left: 15px;
+  
+}
+#phone{
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+}
+.foll{
+  position: relative;
+}
+.men{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+.fa-light{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.phon-emal{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.threek{
+  display: block;
+  justify-content: space-between;
+ 
+}
+.thrrek-oee{
+  position: relative;
+}
+.gori{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+#gorijii{
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+
+
+}
+.goripadd ::placeholder{
+  padding-left: 15px;
+
+}
+
+.Appointment{
+  width: 100%;
+  height: 64px;
+  cursor: pointer;
+  background: #1B3C74;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+color: white;
+transition: 0.3s;
+border-radius: 10px;
+border: none;
+
+}
+.thrrek-oee .Appointment:hover{
+  background: #3a72d1;
+}
+.shap9 img{
+margin-top: 300px;
+margin-left: 50px;
+
+}
+.shap10 img{
+  display: none;
+
+}
+
+
+/* ********************** Section-Five**********************ANimation */
+.secon-five{
+  display: block;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: 50px;
+  margin-top: 444px;
+ 
+}
+.setupp{
+  display: block;
+  justify-content: space-between;
+  width: 100%;
+  margin: auto;
+  margin-top: 100px;
+
+}
+.imgee{
+  position: relative;
+}
+.grtt{
+  position: absolute;
+  top: 50px;
+  left: 30px;
+  
+}
+.menn{
+  position: absolute;
+  top: -40px;
+  right: 420px;
+ 
+}
+
+.shap12{
+  display: none;
+}
+
+
+
+/* ********************** Section-Six**********************ANimation */
+.parent-sixx{
+  position: relative;
+  margin-top: 44px;
+ 
+}
+.bgebac{
+  position: absolute;
+  display: block;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  top: 60px;
+  left: 0px;
+  
+}
+
+.dibni{
+  width: 570px;
+  background: #FFFFFF;
+  padding: 30px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  
+}
+
+.paseana{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+/* right */
+iframe{
+  width: 530px;
+  height: 567px;
+  
+}
+.arros{
+  display: flex;
+  
+}
+
+
+
+/* ********************** Section-Seven**********************ANimation */
+
+
+.sevd{
+  display: flex;
+  justify-content: space-around;
+ 
+
+}
+.kufs{
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 64px;
+ 
+  padding: 10px;
+}
+.loved{
+display: none;
+
+}
+.aun{
+display: none;
+}
+.parent-sevenc h5{ 
+  margin-top: 1200px;
+
+}
+
+.treeimg{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  
+}
+
+.lover{
+display: none;
+}
+
+
+/* ********************** Section-Eight**********************ANimation */
+.parent-eightt{
+  position: relative;
+  margin-top: 44px;
+  
+}
+.parent-eightt .bg5k{
+  max-width: 100%;
+  height: 876px;
+  
+}
+.Vitor-pa{
+  position: absolute;
+  top: 50px;
+  left: 0px;
+ 
+}
+.ABree{
+  display: flex;
+  justify-content: center;
+  
+}
+/* Left */
+
+.womn3{
+  position: relative;
+  margin-right: 200px;
+
+}
+.womn3 .olgh{
+  max-width: 100%;
+  
+}
+.imggg{
+display: none;
+
+}
+.ghhimg{
+  position: absolute;
+  top: 0px;
+  right: -150px;
+ 
+}
+
+/* Plas-Mainus set up*/
+accordion-item {
+  display: block;
+  width: 400px;
+}
+/* Plas-Mainus */
+
+ /* ********************** Section-Nine**********************ANimation */ 
+
+ .Parent-Nine{
+  max-width: 100%;
+  margin-top: 44px;
+ 
+}
+
+.Parent-Nine .bg6d{
+  max-width: 100%;
+  display: none;
+}
+.Parent-Nine h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  color: #2AA7FF;  
+}
+.Parent-Nine h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+}
+
+.bg5s{
+  position: relative;
+  margin-top: 54px;
+ 
+}
+.three-div{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+}
+.Fords{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+ /* ********************** Section-Ten**********************ANimation */ 
+
+ .fater-ten{
+  position: relative;
+  margin-top: 1100px;
+  
+}
+.fater-ten .bg8f{
+  max-width: 100%;
+}
+.parent-ten{
+  max-width: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0px; 
+  padding: 100px;
+}
+
+.Newsletter{
+  display: block;
+  width: 100%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+ 
+}
+
+
+.More h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: #2AA7FF;  
+}
+.More h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: left;
+color: #1B3C74;
+}
+
+.thrrek-okrr{
+  position: relative;
+ 
+}
+.Subscribe{
+  position: absolute;
+  top: 40px;
+  right: 10px;
+
+}
+
+.Subscribe button{
+  border: none;
+  background: #2AA7FF;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+
+.goridf{
+  position: absolute;
+  top: 55px;
+  left: 20px;
+  color: #77829D; 
+}
+
+
+#gorijiihgj{
+  padding-left: 35px;
+  width: 100%;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+    padding-right: 10px;
+   
+}
+
+.goripaddbn ::placeholder{
+  padding-left: 15px;
+
+}
+
+/* shadoe nice */
+.footer-nice{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 50px;
+
+}
+/*  */
+
+  .nav-list button{
+    display: none;
+      }
+          .buttom-header{
+
+            padding-left: 20px;
+            padding-right: 20px;
+
+            }
+       
+            
+            @keyframes learning{
+              0%{
+                
+                left:-800px ;
+              }
+              50%{
+              
+                left: -800px;
+              }
+            
+              100%{
+                left: 40px;
+              }
+            }
+            .right-one img{
+              display: block;
+            }
+            .right-one img{
+              width: 296px;
+              height: 435px;
+            }
+            .right-one {
+              position: absolute;
+              top: 62px;
+              right: 40px;
+              animation-name:imagemoton;
+              animation-duration: 3.3s;
+              animation-iteration-count: 1;
+            }
+            
+            @keyframes imagemoton{
+              0%{
+              
+                right: -500px;
+              }
+              50%{
+                
+                right: -500px;
+              }
+            
+              100%{
+                right: 40px;
+                
+              }
+            }
+            
+          .work-img-parent{
+            display: flex;
+            margin-top: 95px;
+          }
+
+          .right-two{
+          background: white;
+            width: 50%;
+            height: 591px;
+          
+          }
+          .gallery .image{
+            width: calc(100% / 3);
+            padding: 0px;
+          
+          }
+
+
+          .img-gol img{
+            max-width: 100%;
+        
+          }
+          .parent-how{
+            display: block;
+            width: 100%;
+          
+          }
+          .child-how{
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+          }
+          .img-gol button{
+            margin-top: 20px;
+            margin-bottom: 20px;
+          }
+          .child-how img{
+            width: 291px;
+          
+          }
+          .may h2{
+            width: 210px;
+            font-family:"poppins",sans-serif;
+            font-weight: bold;
+            font-size: 22px;
+            margin-left: 22px;
+          }
+          
+          .img-gol p{
+            width: 274px;
+            font-family: sans-serif;
+            font-size: 17px;
+            color: #777777;
+            width: 343px;
+            line-height: 30px;
+            margin-top: 42px;
+       }
+
+/* pppppppppppppppppppppppppppppppppppppppppppppppp */
+/* pppppppppppppppppppppppppppppppppppppppppppppppp */
+.parent-img{
+  width: 932px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0px;
+justify-content: space-between;
+align-items: center;
+}
+.imagerr{
+  width: 210px;
+  height: 210px;
+}
+
+.container {
+  position: relative;
+  width: 210px;
+  height: 210px;
+  display: inline-block;
+}
+.text a{
+
+  margin-left: 0px;
+
+
+}
+
+
+/* ppppppppppppppppppppppppppppppppppppppppppppppp */
+
+
+/* ppppppppppppppppppppppppppppppppppppppppppppppp */
+       
+
+
+  }
+
+
+
+
+
+
+@media (min-width:1280px){
+
+    /* Navbar */
+  /* Navbar */
+  .nav{
+    width: 77%;
+
+    position: absolute;
+    top: 40px;
+    left:0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    padding: 0px 0px;
+   
+  
+  }
+  .freebuton{
+    background: #2AA7FF;
+    margin-left: 300px;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+    font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+
+  }
+  /* End */
+/* End */
+
+/********************* Header-image************************* */
+.left-one h1{
+  position: absolute;
+  top: 120px;
+  left:220px ;
+  font-family: "poppins",sans-serif;
+  font-size: 80px;
+  line-height: 100.4px;
+  font-weight: bold;
+  margin-top: 5px;
+  letter-spacing: 0px;
+  animation-name:learning;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  
+}
+.left-one p{
+  position: absolute;
+  top: 380px;
+  left:220px ;
+  color: #77829D;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0px;
+ font-style: normal;
+ animation-name:learning;
+ animation-duration: 2.5s;
+ animation-iteration-count: 1;
+}
+.left-one button{
+  position: absolute;
+  top: 460px;
+  left:220px ;
+  border: none;
+  padding: 20PX 45PX;
+  cursor: pointer;
+  margin-top: 30PX;
+  transition: 0.3s;
+  
+}
+
+/*  */
+
+
+
+.numberpase{
+  display: flex;
+  flex-wrap: wrap;
+  top: 610px;
+  left:220px ;
+  font-size: 48px;
+  
+}
+/*  */
+
+.abr-img1{
+  position: absolute;
+  top: 350px;
+  left: 280px;
+ 
+}
+
+.abr-img2 {
+  position: absolute;
+  top: 160px;
+  left: -100px;
+  
+}
+
+/* - ***********************Section-one********************** --> */
+.parent-onert{
+  width: 100%;
+  margin-top: 144px;
+}
+.sethj{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.shap1 img{
+  display: block;
+  margin-left: 60px;
+  
+}
+.cardio{
+  display: flex;
+  max-width: 1100px;
+  margin-top: 64px;
+ 
+}
+
+.seduhag h3{
+font-size: 24px;
+ }
+
+
+.shap5{
+  display: block;
+ 
+  
+}
+.shap2{
+  display: block;
+}
+
+
+
+/*  *******************Section-Two******************* */
+
+.work-img-parent{
+  display: flex;
+  max-width: 100%;
+  max-height: 100%;
+  justify-content: space-around;
+  margin-top: 144px;
+ 
+  
+ }
+ .left-two{
+   background-image: url(img/E-image/Left\ Side.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   max-width: 539px;
+   max-height: 570px;
+   margin-left: 300px;
+  
+ }
+
+.shape4{
+display: block;
+ 
+}
+.hand{
+display: block;
+  
+}
+.right-two{
+  background: white;
+     height: 591px;
+  padding: 0px;
+   margin-left: 100px;
+   
+   }
+ .right-two h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: left;
+color: #1B3C74;
+ }
+ .right-two p{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #7583A7;
+  
+ }
+ .right-two button{
+   border: none;
+   padding: 19px 35px ;
+   margin-left: 43px;
+   margin-top: 40px;
+
+ }
+
+/*********************** Section-Three**********************ANimation */
+.image-str{
+  margin-top: 144px;
+  padding: 0px 0px;
+ 
+}
+
+
+
+
+
+/* ********************** Section-Four**********************ANimation */
+.secon-four{
+  position: relative;
+  margin-top: 144px;
+ 
+}
+.imgeo{
+display: block;
+margin-left: 150px;
+
+ 
+}
+.shap7{
+  display: block;
+  
+}
+
+/* Right */
+
+.right-side{
+  position: absolute;
+  top: 100px;
+  right: 380px;
+ 
+}
+
+.smaill{
+display: block;
+top: 120px;
+right: 100px;
+
+}
+.dag{
+display: block;
+
+}
+
+/* Form */
+.white{
+  width: 1170px;
+  background: white;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0px 5px 5px 5px  rgb(236, 234, 234);
+  margin-top: 170px;
+
+}
+.white .shap8{
+  position: absolute;
+  top: 70px;
+  right: 90px;
+  
+}
+.form-one{
+  position: absolute;
+  top: 680px;
+  right: 0px;
+  left: 60px;
+  bottom: 0px;
+  
+}
+.fore-fu{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+#cars{
+  width: 510px;
+  height: 64px;
+  background: #F2F6F9;
+  border: none;
+  border-radius: 5px;
+  margin: 0px 0px;
+
+}
+
+/* Phone */
+
+#phone{
+  width: 510px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+}
+.foll{
+  position: relative;
+}
+.men{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+.fa-light{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.phon-emal{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.threek{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+
+#gorijii{
+  width: 330px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+
+
+}
+
+
+.Appointment{
+  width: 1070px;
+  height: 64px;
+  cursor: pointer;
+  background: #1B3C74;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+color: white;
+transition: 0.3s;
+border-radius: 10px;
+border: none;
+
+}
+.shap9 img{
+  margin-top: 270px;
+  margin-left: 70px;
+  
+  }
+.shap10 img{
+  display: block;
+
+}
+.shap10 img{
+  margin-left: 1290px;
+  
+}
+
+/* ********************** Section-Five**********************ANimation */
+.secon-five{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: 50px;
+  margin-top: 144px;
+  
+}
+.setupp{
+  display: flex;
+  justify-content: space-between;
+  width: 1150px;
+  margin: auto;
+  margin-top: 0px;
+
+}
+
+.menn{
+  position: absolute;
+  top: -40px;
+  right: 20px;
+ 
+}
+
+.shap12{
+  display: block;
+}
+
+
+
+/* ********************** Section-Six**********************ANimation */
+.parent-sixx{
+  position: relative;
+  margin-top: 144px;
+ 
+}
+.bgebac{
+  position: absolute;
+  display: flex;
+  width: 1200px;
+  justify-content: space-between;
+  align-items: center;
+  top: 60px;
+  left: 340px;
+  
+}
+
+.right-sidd img{
+  margin-left: 70px;
+  cursor:zoom-in;
+}
+
+.paseana{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+/* right */
+
+
+
+
+/* ********************** Section-Seven**********************ANimation */
+
+.sevd{
+  display: flex;
+  justify-content: space-around;
+ 
+
+}
+.kufs{
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 64px;
+ 
+  padding: 0px;
+}
+.loved{
+display: block;
+
+}
+.aun{
+display: block;
+}
+.parent-sevenc h5{ 
+  margin-top: 0px;
+
+}
+
+.treeimg{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  
+}
+
+.lover{
+display: block;
+}
+
+
+/* ********************** Section-Eight**********************ANimation */
+.parent-eightt{
+  position: relative;
+  margin-top: 144px;
+
+
+}
+.parent-eightt .bg5k{
+  max-width: 100%;
+  height: 876px;
+  
+}
+.Vitor-pa{
+  position: absolute;
+  top: 100px;
+  left: 300px;
+  
+}
+
+/* Left */
+
+.imggg{
+display: block;
+
+}
+.ghhimg{
+  position: absolute;
+  top: 350px;
+  right: -150px;
+ 
+}
+
+/* Plas-Mainus set up*/
+accordion-item {
+  display: block;
+  width: 500px;
+}
+/* Plas-Mainus */
+
+ /* ********************** Section-Nine**********************ANimation */ 
+
+ .Parent-Nine{
+  max-width: 100%;
+  margin-top: 144px;
+ 
+  
+}
+.Parent-Nine .bg6d{
+  max-width: 100%;
+  display: block;
+}
+
+.Parent-Nine h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  color: #2AA7FF;  
+}
+.Parent-Nine h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+}
+
+.three-div{
+  position: absolute;
+  top: 0px;
+  left: 400px;
+  
+}
+.Fords{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1150px;
+  margin: auto;
+  padding: 0px;
+}
+
+
+.smaiset h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  padding: 15px 0px 15px 15px;
+}
+
+ /* ********************** Section-Ten**********************ANimation */ 
+
+ .fater-ten{
+  position: relative;
+  margin-top: 300px;
+
+}
+.fater-ten .bg8f{
+  max-width: 100%;
+}
+.parent-ten{
+  max-width: 100%;
+  position: absolute;
+  top: 10px;
+  left: 385px; 
+  padding: 0px;
+}
+
+.Newsletter{
+  display: flex;
+  width: 1170px;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+  
+}
+
+#gorijiihgj{
+  padding-left: 35px;
+  width: 330px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+    padding-right: 10px;
+   
+}
+
+
+/* ggggg */
+.thrrek-okrr{
+  position: relative;
+ 
+}
+.Subscribe{
+  position: absolute;
+  top: 40px;
+  right: 10px;
+
+}
+.Subscribe button{
+  border: none;
+  background: #2AA7FF;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+
+
+
+
+/* shadoe nice */
+.footer-nice{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 250px;
+  
+}
+
+
+
+/*  */
+/*  */
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* shadoe nice */
+
+
+/*  */
+
+
+
+
+
+ .imasss .po-po{
+    width: 100%;
+    height: 800px;
+
+}
+  
+.top-header{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid #d9a138;
+    padding: 19px 200px 0px 200px;
+    justify-content: space-between;
+}
+.nav-list button{
+    display: block;
+}
+
+
+.buttom-header{
+    width: 100%;
+    position: absolute;
+    top: 100;
+    left: 0;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    justify-content: space-between;
+}
+
+
+
+
+@keyframes learning{
+  0%{
+    
+    left:-800px ;
+  }
+  50%{
+   
+    left: -800px;
+  }
+ 
+  100%{
+    left: 220px;
+  }
+}
+
+.right-one img{
+  width: 396px;
+  height: 635px;
+}
+.right-one {
+  position: absolute;
+  top: 62px;
+  right: 240px;
+  animation-name:imagemoton;
+  animation-duration: 3.3s;
+  animation-iteration-count: 1;
+}
+
+
+@keyframes imagemoton{
+  0%{
+   
+    right: -500px;
+  }
+  50%{
+    
+    right: -500px;
+  }
+
+  100%{
+    right: 240px;
+    
+  }
+}
+/* section one */
+
+
+.floors-parent{
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.floors{
+  width: 250px;
+  text-align: left;
+  
+}
+
+ 
+.floors p{
+  width: 300px;
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #777777;
+
+ 
+}
+.left-two{
+  background-image: url(img/E-image/Left\ Side.png);
+  background-repeat: no-repeat;
+background-position: center;
+  height: 570px;
+}
+.right-two{
+background: white;
+
+  height: 591px;
+  margin-top: 100px;
+  background-position: center;
+
+}
+.right-two p{
+  width: 70%;
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #777777;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+.latest p{
+  width: 430px;
+  margin: auto;
+  font-family: "poppins",sans-serif;
+  font-size: 17px;
+  color: #777777;
+  margin-top: 42px;
+}
+.parent-how{
+  display: flex;
+  justify-content: space-between;
+  width: 1170px;
+  margin: auto;
+  
+}
+.child-how img{
+ width: 370px;
+ height: 200px;
+}
+.child-how{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+  
+}
+/*  */
+
+/* Plas-Mainus set up*/
+accordion-item {
+  display: block;
+  width: 500px;
+}
+/* Plas-Mainus */
+/* pppppppppppppppppppppppppppppppppppppppppppppppp */
+.parent-img{
+  width: 1170px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0px;
+justify-content: space-between;
+align-items: center;
+}
+.imagerr{
+  display: block;
+  width: 270px;
+  height: 270px;
+  
+}
+
+.container {
+  position: relative;
+  width: 270px;
+  height: 270px;
+  display: inline-block;
+}
+.text a{
+
+  margin-left: 15px;
+
+
+}
+
+
+/* ppppppppppppppppppppppppppppppppppppppppppppppp */
+
+
+}
+@media (min-width:1700px){
+      /* Navbar */
+  /* Navbar */
+  .nav{
+    width: 77%;
+
+    position: absolute;
+    top: 40px;
+    left:0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    padding: 0px 0px;
+   
+  
+  }
+  .freebuton{
+    background: #2AA7FF;
+    margin-left: 300px;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s;
+    font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+
+  }
+  /* End */
+/* End */
+
+/********************* Header-image************************* */
+.left-one h1{
+  position: absolute;
+  top: 120px;
+  left:220px ;
+  font-family: "poppins",sans-serif;
+  font-size: 80px;
+  line-height: 100.4px;
+  font-weight: bold;
+  margin-top: 5px;
+  letter-spacing: 0px;
+  animation-name:learning;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  
+}
+.left-one p{
+  position: absolute;
+  top: 380px;
+  left:220px ;
+  color: #77829D;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0px;
+ font-style: normal;
+ animation-name:learning;
+ animation-duration: 2.5s;
+ animation-iteration-count: 1;
+}
+.left-one button{
+  position: absolute;
+  top: 460px;
+  left:220px ;
+  border: none;
+  padding: 20PX 45PX;
+  cursor: pointer;
+  margin-top: 30PX;
+  transition: 0.3s;
+  
+}
+
+/*  */
+
+
+
+.numberpase{
+  display: flex;
+  flex-wrap: wrap;
+  top: 610px;
+  left:220px ;
+  font-size: 48px;
+  
+}
+/*  */
+
+.abr-img1{
+  position: absolute;
+  top: 350px;
+  left: 280px;
+ 
+}
+
+.abr-img2 {
+  position: absolute;
+  top: 160px;
+  left: -100px;
+  
+}
+
+/* - ***********************Section-one********************** --> */
+.parent-onert{
+  width: 100%;
+  margin-top: 144px;
+}
+.sethj{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.shap1 img{
+  display: block;
+  margin-left: 60px;
+  
+}
+.cardio{
+  display: flex;
+  max-width: 1100px;
+  margin-top: 64px;
+ 
+}
+
+.seduhag h3{
+font-size: 24px;
+ }
+
+
+.shap5{
+  display: block;
+ 
+  
+}
+.shap2{
+  display: block;
+}
+
+
+
+/*  *******************Section-Two******************* */
+
+.work-img-parent{
+  display: flex;
+  max-width: 100%;
+  max-height: 100%;
+  justify-content: space-around;
+  margin-top: 144px;
+ 
+  
+ }
+ .left-two{
+   background-image: url(img/E-image/Left\ Side.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   max-width: 539px;
+   max-height: 570px;
+   margin-left: 300px;
+  
+ }
+
+.shape4{
+display: block;
+ 
+}
+.hand{
+display: block;
+  
+}
+.right-two{
+  background: white;
+     height: 591px;
+  padding: 0px;
+   margin-left: 100px;
+   
+   }
+ .right-two h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: left;
+color: #1B3C74;
+ }
+ .right-two p{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #7583A7;
+  
+ }
+ .right-two button{
+   border: none;
+   padding: 19px 35px ;
+   margin-left: 43px;
+   margin-top: 40px;
+
+ }
+
+/*********************** Section-Three**********************ANimation */
+.image-str{
+  margin-top: 144px;
+  padding: 0px 0px;
+ 
+}
+
+
+
+
+
+/* ********************** Section-Four**********************ANimation */
+.secon-four{
+  position: relative;
+  margin-top: 144px;
+ 
+}
+.imgeo{
+display: block;
+margin-left: 150px;
+
+ 
+}
+.shap7{
+  display: block;
+  
+}
+
+/* Right */
+
+.right-side{
+  position: absolute;
+  top: 100px;
+  right: 380px;
+ 
+}
+
+.smaill{
+display: block;
+top: 120px;
+right: 100px;
+
+}
+.dag{
+display: block;
+
+}
+
+/* Form */
+.white{
+  width: 1170px;
+  background: white;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0px 5px 5px 5px  rgb(236, 234, 234);
+  margin-top: 170px;
+
+}
+.white .shap8{
+  position: absolute;
+  top: 70px;
+  right: 90px;
+  
+}
+.form-one{
+  position: absolute;
+  top: 680px;
+  right: 0px;
+  left: 60px;
+  bottom: 0px;
+  
+}
+.fore-fu{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+#cars{
+  width: 510px;
+  height: 64px;
+  background: #F2F6F9;
+  border: none;
+  border-radius: 5px;
+  margin: 0px 0px;
+
+}
+
+/* Phone */
+
+#phone{
+  width: 510px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+ 
+}
+.foll{
+  position: relative;
+}
+.men{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+.fa-light{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.phon-emal{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.threek{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+
+#gorijii{
+  width: 330px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+
+
+}
+
+
+.Appointment{
+  width: 1070px;
+  height: 64px;
+  cursor: pointer;
+  background: #1B3C74;
+  font-family: Gilroy;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: center;
+color: white;
+transition: 0.3s;
+border-radius: 10px;
+border: none;
+
+}
+.shap9 img{
+  margin-top: 270px;
+  margin-left: 70px;
+  
+  }
+.shap10 img{
+  display: block;
+
+}
+.shap10 img{
+  margin-left: 1490px;
+  
+}
+
+/* ********************** Section-Five**********************ANimation */
+.secon-five{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+  padding: 50px;
+  margin-top: 144px;
+  
+}
+.setupp{
+  display: flex;
+  justify-content: space-between;
+  width: 1150px;
+  margin: auto;
+  margin-top: 0px;
+
+}
+
+.menn{
+  position: absolute;
+  top: -40px;
+  right: 20px;
+ 
+}
+
+.shap12{
+  display: block;
+}
+
+
+
+/* ********************** Section-Six**********************ANimation */
+.parent-sixx{
+  position: relative;
+  margin-top: 144px;
+ 
+}
+.bgebac{
+  position: absolute;
+  display: flex;
+  width: 1200px;
+  justify-content: space-between;
+  align-items: center;
+  top: 60px;
+  left: 340px;
+  
+}
+
+
+
+.paseana{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+/* right */
+
+
+
+
+/* ********************** Section-Seven**********************ANimation */
+
+.sevd{
+  display: flex;
+  justify-content: space-around;
+ 
+
+}
+.kufs{
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 64px;
+ 
+  padding: 0px;
+}
+.loved{
+display: block;
+
+}
+.aun{
+display: block;
+}
+.parent-sevenc h5{ 
+  margin-top: 0px;
+
+}
+
+.treeimg{
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto;
+  
+}
+
+.lover{
+display: block;
+}
+
+
+/* ********************** Section-Eight**********************ANimation */
+.parent-eightt{
+  position: relative;
+  margin-top: 144px;
+
+
+}
+.parent-eightt .bg5k{
+  max-width: 100%;
+  height: 876px;
+  
+}
+.Vitor-pa{
+  position: absolute;
+  top: 100px;
+  left: 300px;
+  
+}
+
+/* Left */
+
+.imggg{
+display: block;
+
+}
+.ghhimg{
+  position: absolute;
+  top: 350px;
+  right: -150px;
+ 
+}
+
+/* Plas-Mainus set up*/
+accordion-item {
+  display: block;
+  width: 500px;
+}
+/* Plas-Mainus */
+
+ /* ********************** Section-Nine**********************ANimation */ 
+
+ .Parent-Nine{
+  max-width: 100%;
+  margin-top: 144px;
+ 
+  
+}
+.Parent-Nine .bg6d{
+  max-width: 100%;
+  display: block;
+}
+
+.Parent-Nine h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  color: #2AA7FF;  
+}
+.Parent-Nine h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: center;
+color: #1B3C74;
+}
+
+.three-div{
+  position: absolute;
+  top: 0px;
+  left: 400px;
+  
+}
+.Fords{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 1150px;
+  margin: auto;
+  padding: 0px;
+}
+
+
+.smaiset h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  padding: 15px 0px 15px 15px;
+}
+
+ /* ********************** Section-Ten**********************ANimation */ 
+
+ .fater-ten{
+  position: relative;
+  margin-top: 300px;
+
+}
+.fater-ten .bg8f{
+  max-width: 100%;
+}
+.parent-ten{
+  max-width: 100%;
+  position: absolute;
+  top: 10px;
+  left: 385px; 
+  padding: 0px;
+}
+
+.Newsletter{
+  display: flex;
+  width: 1170px;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+  
+}
+
+#gorijiihgj{
+  padding-left: 35px;
+  width: 330px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+    padding-right: 10px;
+   
+}
+
+
+/* ggggg */
+.thrrek-okrr{
+  position: relative;
+ 
+}
+.Subscribe{
+  position: absolute;
+  top: 40px;
+  right: 10px;
+
+}
+.Subscribe button{
+  border: none;
+  background: #2AA7FF;
+  padding: 15px 25px;
+  border-radius: 8px;
+}
+
+
+
+
+/* shadoe nice */
+.footer-nice{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 250px;
+  
+}
+
+
+
+/*  */
+/*  */
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* shadoe nice */
+
+
+/*  */
+
+
+
+
+
+ .imasss .po-po{
+    width: 100%;
+    height: 800px;
+
+}
+  
+.top-header{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid #d9a138;
+    padding: 19px 200px 0px 200px;
+    justify-content: space-between;
+}
+.nav-list button{
+    display: block;
+}
+
+
+.buttom-header{
+    width: 100%;
+    position: absolute;
+    top: 100;
+    left: 0;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    justify-content: space-between;
+}
+
+
+
+
+@keyframes learning{
+  0%{
+    
+    left:-800px ;
+  }
+  50%{
+   
+    left: -800px;
+  }
+ 
+  100%{
+    left: 220px;
+  }
+}
+
+.right-one img{
+  width: 396px;
+  height: 635px;
+}
+.right-one {
+  position: absolute;
+  top: 62px;
+  right: 240px;
+  animation-name:imagemoton;
+  animation-duration: 3.3s;
+  animation-iteration-count: 1;
+}
+
+
+@keyframes imagemoton{
+  0%{
+   
+    right: -500px;
+  }
+  50%{
+    
+    right: -500px;
+  }
+
+  100%{
+    right: 240px;
+    
+  }
+}
+/* section one */
+
+
+.floors-parent{
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.floors{
+  width: 250px;
+  text-align: left;
+  
+}
+
+ 
+.floors p{
+  width: 300px;
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #777777;
+
+ 
+}
+.left-two{
+  background-image: url(img/E-image/Left\ Side.png);
+  background-repeat: no-repeat;
+background-position: center;
+  height: 570px;
+}
+.right-two{
+background: white;
+
+  height: 591px;
+  margin-top: 100px;
+  background-position: center;
+
+}
+.right-two p{
+  width: 70%;
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  color: #777777;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+.latest p{
+  width: 430px;
+  margin: auto;
+  font-family: "poppins",sans-serif;
+  font-size: 17px;
+  color: #777777;
+  margin-top: 42px;
+}
+.parent-how{
+  display: flex;
+  justify-content: space-between;
+  width: 1170px;
+  margin: auto;
+  
+}
+.child-how img{
+ width: 370px;
+ height: 200px;
+}
+.child-how{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+  
+}
+/*  */
+
+/* Plas-Mainus set up*/
+accordion-item {
+  display: block;
+  width: 500px;
+}
+/* Plas-Mainus */
+/* pppppppppppppppppppppppppppppppppppppppppppppppp */
+.parent-img{
+  width: 1170px;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0px;
+justify-content: space-between;
+align-items: center;
+}
+.imagerr{
+  display: block;
+  width: 270px;
+  height: 270px;
+  
+}
+
+.container {
+  position: relative;
+  width: 270px;
+  height: 270px;
+  display: inline-block;
+}
+.text a{
+
+  margin-left: 15px;
+
+
+}
+
+}
+
+@media (max-width:991px) {
+
+
+
+
+
+  /*=========== navbar==================== */
+.icons{
+display: inline-flex;
+
+}
+
+#check:checked~.icons #menu-icon{
+display: none;
+}
+
+.icons #close-icon{
+display: none;
+}
+
+#check:checked~.icons #close-icon{
+display: block;
+}
+
+
+#check:checked~.navbar{
+height: 17.7rem;
+
+}
+
+
+.navbar ul li .nav-set{
+display: block;
+font-size: 1.1rem;
+margin: 1.5rem 0;
+text-align: center;
+transform: translateY(-50px);
+transition: .3s ease;
+opacity: 0;
+border: 1px solid red;
+}
+
+#check:checked~.navbar ul li .nav-set{
+transform: translateY(0);
+opacity: 1;
+transition-delay: calc(.15s * var(--i));
+
+}
+
+
+
+}

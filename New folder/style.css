@@ -1,0 +1,57 @@
+.parent-ten{
+  max-width: 100%;
+  margin-top: 300px;
+border: 1px solid red;
+  
+}
+.Newsletter{
+  display: flex;
+  width: 1150px;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  background: #FFFFFF;
+  transition: 0.5s;
+  cursor: pointer;
+  padding: 0px 30px 30px 30px;
+}
+.Newsletter:hover{
+  box-shadow: 5px 15px 15px 5px rgb(227, 225, 225);
+}
+.More h6{
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: #2AA7FF;  
+}
+.More h3{
+font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 67.2px;
+text-align: left;
+color: #1B3C74;
+}
+/*  */
+.thrrek-oee{
+  position: relative;
+}
+.gori{
+  position: absolute;
+  top: 50px;
+  right: 20px;
+}
+#gorijii{
+  width: 330px;
+  height: 64px;
+  border: none;
+  border-radius: 5px;
+  background: #F2F6F9;
+  margin-top: 30px;
+}
+.goripadd ::placeholder{
+  padding-left: 15px;
+
+}
